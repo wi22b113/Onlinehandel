@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯Ú©îùÿÿÿÿ8ö¿÷ğŒ1
+T
+java:S1612W"7Replace this lambda with method reference 'm::matches'.(‰®ÂÚ8ÿ¿÷ğŒ1
+F
+java:S1481d"*Remove this unused "order" local variable.(¸±¸!8À÷ğŒ1
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(óã°½8À÷ğŒ1
+Y
+java:S1612q"7Replace this lambda with method reference 'm::matches'.(ô‚ª¨úÿÿÿÿ8À÷ğŒ1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(®öçŠûÿÿÿÿ8‚À÷ğŒ1
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8‚À÷ğŒ1
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8‚À÷ğŒ1

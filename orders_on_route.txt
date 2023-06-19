@@ -1,0 +1,5 @@
+[120133213 [collected, not delivered] (EUR 27015,84)
+[Item{amount=16, description='Dell H2412', value=45099}, Item{amount=11, description='Lenovo ThinkPad', value=180000}], 120133212 [collected, not delivered] (EUR 41615,84)
+[Item{amount=16, description='Dell H2412', value=45099}, Item{amount=8, description='Iphone 6', value=70000}, Item{amount=32, description='S9', value=90000}]][120133213 [collected, not delivered] (EUR 27015,84)
+[Item{amount=16, description='Dell H2412', value=45099}, Item{amount=11, description='Lenovo ThinkPad', value=180000}], 120133212 [collected, not delivered] (EUR 41615,84)
+[Item{amount=16, description='Dell H2412', value=45099}, Item{amount=8, description='Iphone 6', value=70000}, Item{amount=32, description='S9', value=90000}]]
